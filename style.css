@@ -1126,7 +1126,6 @@ body {
 	margin-bottom: 30px;
 }
 .ourblog__container {
-	display: flex;
 	text-align: start;
 	justify-content: space-between;
 	align-items: flex-start;
@@ -1137,7 +1136,6 @@ body {
 
 .ourblog__img {
 	max-width: 555px;
-	min-height: 443px;
 	background-color: #fff;
 	background-position: 50%;
 	background-size: cover;
